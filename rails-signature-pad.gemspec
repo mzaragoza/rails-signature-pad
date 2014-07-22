@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Rails::Signature::Pad::VERSION
   spec.authors       = ["Moises Zaragoza"]
   spec.email         = ["mZaragoza@circletechfl.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{ simple way to add a signature-pad to your form }
+  spec.summary       = %q{ simple way to add a signature-pad to your form }
+  spec.homepage      = "https://github.com/mzaragoza/rails-signature-pad"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
